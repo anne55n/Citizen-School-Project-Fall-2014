@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+ <script type="text/javascript" >
+
+
+var answer = prompt("Enter 1 to convert from Celcius to Farenheight. 2 to convert from F to Celsius");
+
+
+if (answer ==="1"){
+convertToF();
+}
+else if(answer==="2"){
+convertToC();
+}
+else 
+{
+alert("WRONG input, try again");
+}
+function convertToF(){
+var number = prompt("This will convert to F.  Enter your number");
+ var faren = (number*9)/5 +32;
+  alert(faren);
+ }
+
+
+ function convertToC(){
+ var input =prompt("This will convert to C.  Enter your number");
+ var cels = ((input - 32)*5) / 9; 
+ alert(cels);
+ }
+ </script>
+ </body>
+</html>
