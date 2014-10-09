@@ -1,0 +1,247 @@
+#first{
+margin-top: 120px;
+display: block;
+margin-left: 240px;
+width:500px;
+height:40px;
+}
+
+#second{
+	display: block;
+margin-top: -40px;
+margin-left: 740px;
+width:120px;
+height:40px;
+}
+#result{
+color:red;
+font-size:20px;
+margin-left: 250px;
+}
+#name{
+color:blue;
+text-decoration: underline;
+font-size: 20px;
+margin-left: -1px;
+}
+#top{
+font-size: 18px;
+margin-left:  10px;
+}
+#star{
+	color:#FFBF00;
+	margin-left: 230px;
+}
+#student{
+color:blue;
+text-decoration: underline;
+font-size: 20px;
+margin-left: 7px;
+margin-bottom: 5px;
+}
+#address{
+	margin-top: -20px;
+font-size: 20px;
+margin-left: 255px;
+}
+#email{
+	margin-top: -20px;
+font-size: 20px;
+margin-left: 255px;
+}
+#phone{
+	margin-top: -20px;
+font-size: 20px;
+margin-left: 255px;
+}
+
+#website{
+	margin-top: -20px;
+font-size: 20px;
+margin-left: 255px;
+
+}
+
+#edu{
+	color: black;
+	margin-left: 255px;
+	text-decoration: underline;
+	font-size: 20px;
+}
+#school{
+	color: black;
+	margin-left: 255px;
+	text-decoration: none;
+	font-size: 18px;
+	margin-top: -20px;
+}
+#list{
+	margin-top: -20px;
+	margin-left: 255px;
+	
+}
+#relacla{
+	color: black;
+	margin-left: 255px;
+	text-decoration: none;
+	font-size: 18px;
+	margin-top: -20px;
+	
+}
+
+
+
+#extra{
+	color: black;
+	margin-left: 255px;
+	text-decoration: underline;
+	font-size: 20px;
+}
+#ex{
+	color: black;
+	margin-left: 255px;
+	text-decoration: none;
+	font-size: 18px;
+	margin-top: -20px;
+}
+
+#ext{
+	color: black;
+	margin-left: 255px;
+	text-decoration: none;
+	font-size: 18px;
+	margin-top: -20px;
+}
+
+
+
+#projects{
+	color: black;
+	margin-left: 255px;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+#skills{
+	color: black;
+	margin-left: 255px;
+	text-decoration: underline;
+	font-size: 20px;
+}
+#skill1{
+margin-left: 265px;
+margin-top: -15px;
+}
+#skill2{
+margin-left: 265px;
+margin-top: 1px;
+}
+#skill3{
+margin-left: 265px;
+margin-top: 1px;
+}
+#skill4{
+margin-left: 265px;
+margin-top: 1px;
+}
+
+
+
+#opsys{
+margin-left: 255px;
+margin-top: -15px;
+}
+#sys1{
+	margin-left: 265px;
+
+margin-top: -15px;
+}
+#sys2{
+margin-left: 265px;
+margin-top: 1px;
+}
+#sys3{
+margin-left: 265px;
+margin-top: 1px;
+}
+
+
+#soft{
+margin-left: 255px;
+margin-top: -15px;
+}
+#soft1{
+margin-left: 265px;
+margin-top: -15px;
+}
+#soft2{
+margin-left: 265px;
+margin-top: 1px;
+}
+#soft3{
+margin-left: 265px;
+margin-top: 1px;
+}
+
+
+#lang{
+margin-left: 255px;
+margin-top: -15px;
+}
+#lang1{
+margin-left: 265px;
+margin-top: -15px;
+}
+#lang2{
+margin-left: 265px;
+margin-top: 1px;
+}
+
+
+#splang{
+margin-left: 255px;
+margin-top: -15px;
+}
+#nat{
+margin-left: 265px;
+margin-top: -15px;
+}
+#other{
+margin-left: 265px;
+margin-top: 1px;
+}
+div{
+margin-left: 200px;
+border-width:3px;
+border-style:dotted;
+width:1000px;
+
+
+}
+
+#sugg{
+margin-left: 255px;
+margin-top: 10px;
+
+font-size: 22px;
+}
+
+#talent{
+margin-left: 275px;
+margin-top: -15px;
+}
+#creat{
+margin-left: 275px;
+margin-top: -15px;
+
+}
+#mean{
+color:red;
+margin-left: 255px;
+margin-top: 10px;
+}
+
+#stn{
+color:blue;
+text-decoration: underline;
+}
