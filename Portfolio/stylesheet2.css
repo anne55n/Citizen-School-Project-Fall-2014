@@ -1,0 +1,133 @@
+body{
+background:url(rain.png) ;
+background-size: 120%;}
+#avatar{
+	width:200px;
+	height:250px;
+	border-style:solid double;
+	border-width: 3px;
+	border-color:#01A9DB;
+	margin-left: 623px;
+	margin-top: 240px;
+	display:block;
+	border-radius:10px;
+}
+
+
+#btn4{
+ height:50px;
+ width:130px;
+ border-width:3px;
+ border-style:solid;
+ border-radius:10px;
+ border-color:#BCA9F5;
+ background-color:#F6CEF5;
+margin-top:-450px;
+margin-left:658px;
+display:block;
+}
+#one{
+font: 24px 'Indie+Flower', cursive;
+color:#8000FF;
+
+}
+
+#btn{border-width:1px;border-style:solid;background-image:url(twitter.png);background-color:white;width:50px;height:50px;display: block;margin-top:20px;margin-left:625px;border-radius:10px;}#btn1{
+border-width:1px;border-style:solid;background-image:url(ln.jpeg);background-color:white;width:50px;height:50px;margin-top:-50px;margin-left:676px;border-radius:10px;
+display: block;
+}
+#btn2{border-width:1px;border-style:solid;background-image:url(facebook.jpg);background-color:white;width:50px;height:50px;display:block;margin-top:-50px;margin-left:727px;border-radius:10px;}#btn3{border-width:1px;border-style:solid;background-image:url(github.jpg);background-color:white;width:50px;height:50px;display:block;margin-top:-50px;margin-left:778px;border-radius:10px;}
+
+#btn5{
+ height:50px;
+ width:130px;
+ border-width:3px;
+ border-style:solid;
+ border-radius:10px;
+ border-color:#F6CEF5;
+ background-color:#BCA9F5;
+margin-top:170px;
+margin-left:360px;
+display:block;
+}
+
+#two{
+font: 22px 'Indie+Flower', cursive;
+color:#8904B1;
+
+}
+
+
+#star{
+color:#FFBF00;
+font:50px 'Cookie', cursive;
+}
+#text{
+font:70px 'Cookie', cursive;
+color:#8904B1;
+
+}
+
+#btn6{
+height:50px;
+ width:130px;
+ border-width:3px;
+ border-style:solid;
+ border-radius:10px;
+ border-color:#BCA9F5;
+ background-color:#F6CEF5;
+margin-left:660px;
+margin-top:220px;
+display:block;
+}
+#three{
+font: 22px 'Indie+Flower', cursive;
+color:#8000FF;
+
+}
+#btn7{
+height:50px;
+ width:130px;
+ border-width:3px;
+ border-style:solid;
+ border-radius:10px;
+ border-color:#F6CEF5;
+ background-color:#BCA9F5;
+margin-top:-322px;
+margin-left:960px;
+display:block;
+
+}
+#four{
+font: 22px 'Indie+Flower', cursive;
+color:#8904B1;
+}
+    #map_canvas {
+      border-width:3px;
+      border-style:solid;
+        width: 300px;
+        height: 300px;
+        border-color:#01DFD7;
+         background-color: #CCC;
+         border-radius:10px;
+         margin-top:40px;
+       
+      }
+  
+  #legend {
+  	 border-width:2px;
+  	 border-radius:10px;
+   	 border-style:solid;
+    background: white;
+    width:65px;
+    height:70px;
+    padding: 10px;
+    background-color: #EFF5FB;
+  }
+#legend h3 {
+        margin-top: 0;
+        }
+         #legend img {
+        vertical-align: middle;
+      }
+  
